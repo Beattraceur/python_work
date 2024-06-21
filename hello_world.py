@@ -1,3 +1,8 @@
-print("Hello Python world!")
-print("next row")
-print(1/10)
+msg = "Hello Python world!"
+print(msg)
+
+msg = "Python Crash Course"
+print(msg)
+
+mesage = "Hello Error!"
+print(mesage)
